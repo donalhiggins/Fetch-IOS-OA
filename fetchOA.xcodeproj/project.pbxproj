@@ -32,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4062C00629A19B70002944F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		40D7F37B29A01E1F00DD0B2E /* fetchOA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fetchOA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40D7F37E29A01E1F00DD0B2E /* fetchOAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fetchOAApp.swift; sourceTree = "<group>"; };
 		40D7F38029A01E1F00DD0B2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 		40D7F37229A01E1F00DD0B2E = {
 			isa = PBXGroup;
 			children = (
+				4062C00629A19B70002944F1 /* README.md */,
 				40D7F37D29A01E1F00DD0B2E /* fetchOA */,
 				40D7F37C29A01E1F00DD0B2E /* Products */,
 			);
